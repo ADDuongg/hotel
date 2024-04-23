@@ -1,2 +1,2 @@
 Tài khoản admin: duong@gmail.com
-Mật khẩu: 1
+Mật khẩu: 123
